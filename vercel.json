@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/mutasi/qris/:merchantCode/:apiKey",
+      "destination": "/api/mutasi/qris"
+    }
+  ]
+}
