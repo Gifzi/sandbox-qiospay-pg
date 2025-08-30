@@ -4,8 +4,8 @@ module.exports = (req, res) => {
   // Data dummy yang akan dikembalikan sebagai respons JSON
   const dummyData = [
     {
-      "date": "2024-07-03 22:38:07",
-      "amount": "13000",
+      "date": "2025-08-30 21:09:00",
+      "amount": "30001",
       "type": "CR",
       "qris": "static",
       "brand_name": "93600014",
